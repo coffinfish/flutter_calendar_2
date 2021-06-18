@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "516393993727",
+    "project_id": "felicity-hackathon",
+    "storage_bucket": "felicity-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516393993727:android:96ed193a0cc332392a53ca",
+        "android_client_info": {
+          "package_name": "com.felicity.flutter_calendar_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516393993727-i079u49vfeo3t88c4at59ob10ts3lort.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_c2DNDqnCveyAEdSP5AWPt2SXIK-SKRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516393993727-i079u49vfeo3t88c4at59ob10ts3lort.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516393993727:android:8f7d1a36436f1dee2a53ca",
+        "android_client_info": {
+          "package_name": "com.felicityhackathon.flutter_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516393993727-i079u49vfeo3t88c4at59ob10ts3lort.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_c2DNDqnCveyAEdSP5AWPt2SXIK-SKRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516393993727-i079u49vfeo3t88c4at59ob10ts3lort.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
